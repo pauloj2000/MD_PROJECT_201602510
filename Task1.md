@@ -15,10 +15,9 @@ Podendo basear na experiência de profissionais, com a tecnologia analisando o m
 
 ### Aplicativos que se relacionam
 
-Não foi encontrado aplicativos que seriam concorrentes
-Porém alguns se relacionam, como:
+Não foi encontrado aplicativos que seriam concorrentes, porém alguns se relacionam, como:
 
-Google Fit e Samsung Health
+#### Google Fit e Samsung Health
 - Monitoram seu treinamento para você se mander saudável
 
 
