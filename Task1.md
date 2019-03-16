@@ -11,7 +11,7 @@ Aplicativo que através de conteúdos da área de psicologia e até psiquiatria,
 à manter saudável sua saúde mental.
 
 Aplicativo que simule a maneira correta de se fazer determinados atos no esporte (Ex: cobrar uma falta no futebol)
-Podendo basear na experiência de profissionais, com a tecnologia analisando o modo que eles praticam
+Podendo basear na experiência de profissionais, com a tecnologia analisando o modo que eles executam.
 
 ### Aplicativos que se relacionam
 
